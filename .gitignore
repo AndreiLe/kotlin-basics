@@ -1,0 +1,15 @@
+*.iml
+.idea/
+.DS_STORE
+local.properties
+
+# Gradle files
+build/
+.gradle/
+
+# Maven files
+target
+
+# Modules for JS projects build
+node_modules
+/src/commonTest/kotlin/TempTest.kt
